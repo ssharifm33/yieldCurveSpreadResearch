@@ -1,0 +1,19 @@
+
+
+Thought about yield curve spread project for a couple of seconds
+Below is a step-by-step guide to help you design and execute a self-contained 
+research project focusing on yield curve spreads. You’ll walk away with a 
+structured, end-to-end framework that combines data science, quantitative 
+analysis, and a bit of trading strategy design.
+
+1. Research Question
+Sample Primary Question
+“Does the 2-year/10-year U.S. Treasury yield spread exhibit mean-reversion 
+characteristics that can be leveraged for a trading strategy or 
+predictive analysis?”
+
+You could tailor this further. For example:
+
+“Do changes in the 2-10 Treasury spread provide leading indicators for economic
+ slowdowns?” “What trading opportunities exist if the yield curve spread 
+ deviates substantially from its historical average?”
